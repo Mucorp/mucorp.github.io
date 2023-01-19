@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://mucorp.github.io/sitemap.xml
+Host: https://mucorp.github.io
